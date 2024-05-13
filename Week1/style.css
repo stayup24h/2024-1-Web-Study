@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+    text-align: center;
+    transition: 0.5s;
+}
+
+h1:hover{
+    color: red;
+}
