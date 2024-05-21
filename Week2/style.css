@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+    text-align: center;
+    transition: 0.5s;
+}
+
+h1:hover{
+    color: red;
+}
+
+h2{
+    text-align:  center;
+}
+
+#timer{
+    text-align: center;
+    font-size: large;
+}
